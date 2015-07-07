@@ -1,0 +1,13 @@
+COMMAND,PARAMETER_1,PARAMETER_2,PARAMETER_3,COMMENT
+
+4bar,0.2,0,0,meters
+
+4bar,0.4,0,0,meters
+
+4bar,0.6,0,0,meters
+
+4bar,0.8,0,0,meters
+
+4bar,1.0,0,0,meters
+end,,,,
+

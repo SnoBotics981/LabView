@@ -1,0 +1,19 @@
+COMMAND,PARAMETER_1,PARAMETER_2,PARAMETER_3,COMMENT
+,,,,
+drive_time,1,0.25,1, 'time(sec) speed ramp_time(sec)
+,,,,
+delay,0.125, 0, 0, 'sec
+,,,,
+drive_distance,1,0.5,0,'meters speed
+,,,,
+4bar,0.4,0,0,meters
+,,,,
+delay        0.125, ,,,'seconds
+,,,,
+drive_time,-1,0.25,2, 'time(sec) speed ramp_time(sec)
+,,,,
+turn         180.0,0.25,2,0,'angle ramp time(sec)
+,,,,
+end,,,,
+,,,,
+drive_distance,1,0.5,0,'meters speed

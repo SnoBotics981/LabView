@@ -1,0 +1,8 @@
+COMMAND,PARAMETER_1,PARAMETER_2,PARAMETER_3,COMMENT
+
+drive_inches, -30,  0, 0, 'distance (inches)
+
+4bar,          0.3, 0, 0, pot set point
+
+end,,,,
+

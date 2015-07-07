@@ -1,0 +1,26 @@
+COMMAND,PARAMETER_1,PARAMETER_2,PARAMETER_3,COMMENT
+
+#drive_inches,     40, 0, 0, 'distance (inches)
+
+#drive_inches,     45, 0, 0, 'distance (inches)
+
+#drive_inches,     50, 0, 0, 'distance (inches)
+
+#drive_inches,     55, 0, 0, 'distance (inches)
+
+#drive_inches,     60, 0, 0, 'distance (inches)
+
+#drive_inches,     65, 0, 0, 'distance (inches)
+
+#drive_inches,     70, 0, 0, 'distance (inches)
+
+#drive_inches,     75, 0, 0, 'distance (inches)
+
+#drive_inches,     80, 0, 0, 'distance (inches)
+
+#drive_inches,     85, 0, 0, 'distance (inches)
+
+drive_inches,     90, 0, 0, 'distance (inches)
+
+end,,,,
+
