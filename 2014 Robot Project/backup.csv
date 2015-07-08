@@ -1,0 +1,17 @@
+COMMAND,PARAMETER_1,PARAMETER_2,COMMENT
+turn,180,,degrees
+delay,2.1,,seconds
+drive_distance,3.1,0.8,"meters, speed"
+delay,2.2,,seconds
+drive_time,2,0.8,"seconds, speed"
+delay,2.3,,seconds
+close_ball_grabber,,,
+delay,0.5,,seconds
+pick_up_pose,,,
+delay,2.4,,seconds
+shoot,,,
+delay,2.6,,seconds
+pick_up_pose,,,
+delay,2.6,,seconds
+open_ball_grabber,,,
+end,,,
